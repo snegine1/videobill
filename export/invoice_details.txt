@@ -1,0 +1,65 @@
+Array
+(
+    [550] => Array
+        (
+            [bill_num] => 164
+            [total] => 185.65
+            [plan_id] => 100
+            [plan_charge] => 3.0000
+            [service] => 612374835
+            [num_charges] => 1
+            [total_nrc_charge] => 10
+            [charges] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 201
+                            [1] => 10.0000
+                        )
+
+                )
+
+            [local_usage] => 401
+            [local_charge] => 60.1500
+            [national_usage] => 125
+            [national_charge] => 75.0000
+            [international_usage] => 45
+            [international_charge] => 67.5000
+            [discount_id] => 300
+            [discount_flat] => 10.0000
+            [discount_per] => 
+            [discount_amount] => 30.0000
+        )
+
+    [551] => Array
+        (
+            [bill_num] => 164
+            [total] => 45
+            [plan_id] => 105
+            [plan_charge] => 20.0000
+            [service] => V84922938
+            [num_charges] => 1
+            [total_nrc_charge] => 10
+            [charges] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 203
+                            [1] => 10.0000
+                        )
+
+                )
+
+            [local_usage] => 100
+            [local_charge] => 15.0000
+            [national_usage] => 0
+            [national_charge] => 0
+            [international_usage] => 0
+            [international_charge] => 0
+            [discount_id] => 0
+            [discount_flat] => 0
+            [discount_per] => 0
+            [discount_amount] => 0
+        )
+
+)

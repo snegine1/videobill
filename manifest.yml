@@ -1,0 +1,12 @@
+---
+declared-services:
+  php-mysql-db:
+    label: cleardb
+    plan: spark
+applications:
+- name: PHP Video Bill
+  memory: 512M
+  disk_quota: 256M
+  buildpack: php_buildpack
+  services:
+    - php-mysql-db

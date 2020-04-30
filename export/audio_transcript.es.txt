@@ -1,0 +1,169 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => 8
+            [1] => Hola José Feliciano!!  Bienvenido a su proyecto Video!! 
+            [2] => Hello José Feliciano!!
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 4
+                    [1] => 7
+                    [2] => 7
+                    [3] => 10
+                )
+
+            [1] => Array
+                (
+                    [0] => Hay algunos viejos proyectos aún no pagados.   Son ... 
+                    [1] => Ley 162 tiene total de 484,94 €, y 
+                    [2] => Ley 163 de 363,62 euros, cantidad total 
+                    [3] => Consulte estas sumas pendientes de pago tan pronto como sea posible para los servicios uninteruppted. 
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Bill No.
+                                    [1] => Bill date
+                                    [2] => Due date
+                                    [3] => Amount
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 162
+                                    [1] => 2016-09-24
+                                    [2] => 2016-09-24
+                                    [3] => 484.94 €
+                                )
+
+                            [2] => Array
+                                (
+                                    [0] => 163
+                                    [1] => 2016-10-24
+                                    [2] => 2016-10-24
+                                    [3] => 363.62 €
+                                )
+
+                        )
+
+                    [1] => 0
+                    [2] => 1
+                    [3] => 
+                )
+
+            [3] => 2
+        )
+
+    [2] => Array
+        (
+            [0] => 28
+            [1] => El monto total del proyecto actual como fiscal es mes. 279,09 €   El resumen de la cantidad total en niveles de servicio son ...  Para GSM de 6 1 2 3 7 4 8 3 5 es de 185,65 euros, y para la televisión de servicio V 8 4 9 2 2 9 3 8 es de 45 euros. 
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Service
+                            [1] => Amount
+                        )
+
+                    [1] => Array
+                        (
+                            [0] => 612374835
+                            [1] => 185.65
+                        )
+
+                    [2] => Array
+                        (
+                            [0] => V84922938
+                            [1] => 45
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [0] => 164
+                    [1] => 279.09
+                )
+
+        )
+
+    [3] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 25
+                    [1] => El GSM de 6 1 2 3 7 4 8 3 5 tiene cargos son ...  Plan telefónico del paquete básico mensual, 3€.  10 € para cargos recurrentes de instalación de teléfono.  Usos total. 202,65 €  10 euros de descuento aplicable individualmente en cada diferentes tipos de uso. 
+                    [2] => Array
+                        (
+                            [0] => GSM
+                            [1] => 612374835
+                            [2] => Basic Telephone Package
+                            [3] => 3.00 €
+                            [4] => 10.00 €
+                            [5] => 202.65 €
+                            [6] => 10 €
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => 20
+                    [1] => La televisión de servicio V 8 4 9 2 2 9 3 8 tiene cargos son ...  Plan mensual Plan TV, 20 euros.  10 euros para cargos recurrentes. Finanzas  Usos total. 15 € 
+                    [2] => Array
+                        (
+                            [0] => Television
+                            [1] => V84922938
+                            [2] => Plan TV
+                            [3] => 20.00 €
+                            [4] => 10.00 €
+                            [5] => 15.00 €
+                            [6] => 
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [0] => 30
+            [1] => Basado en el uso promedio del servicio en los últimos seis meses y analizar con el proyecto de los planes disponibles en nuestro sistema, tenemos una recomendación plan proyecto que puede ser más adecuada y rentable.  Para el servicio GSM 6 1 2 3 7 4 8 3 5, recomendamos plan Plan Smart S y que pueden ahorrar mensualmente alrededor de 169,5 euros. 
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Service
+                            [1] => Recommended plan
+                            [2] => Saving
+                        )
+
+                    [1] => Array
+                        (
+                            [0] => 612374835
+                            [1] => Plan Smart S
+                            [2] => 169.5 €
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [0] => 5
+            [1] => Gracias. 
+            [2] => THANK YOU!!
+        )
+
+)

@@ -1,0 +1,169 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => 8
+            [1] => Hallo José Feliciano!!  Willkommen bei Ihrem Video Bill!! 
+            [2] => Hello José Feliciano!!
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 4
+                    [1] => 7
+                    [2] => 7
+                    [3] => 10
+                )
+
+            [1] => Array
+                (
+                    [0] => Es gibt einige alte Rechnungen noch nicht bezahlt.   Diese sind ... 
+                    [1] => Rechnung 162 hat insgesamt 484,94 €, und 
+                    [2] => Rechnung 163 sind insgesamt 363,62 €, 
+                    [3] => Bitte zahlen Sie die anstehenden Gesetz Beträge so bald wie möglich für uninteruppted Dienstleistungen. 
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Bill No.
+                                    [1] => Bill date
+                                    [2] => Due date
+                                    [3] => Amount
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 162
+                                    [1] => 2016-09-24
+                                    [2] => 2016-09-24
+                                    [3] => 484.94 €
+                                )
+
+                            [2] => Array
+                                (
+                                    [0] => 163
+                                    [1] => 2016-10-24
+                                    [2] => 2016-10-24
+                                    [3] => 363.62 €
+                                )
+
+                        )
+
+                    [1] => 0
+                    [2] => 1
+                    [3] => 
+                )
+
+            [3] => 2
+        )
+
+    [2] => Array
+        (
+            [0] => 28
+            [1] => Der gesamte Rechnungsbetrag für den aktuellen Monat einschließlich Steuern beträgt 279,09 €.   Die Zusammenfassung der Gesamtsumme bei Service-Levels werden ...  Service für GSM-Service 6 1 2 3 7 4 8 3 5 185,65 € ist, und für Fernsehen V 8 4 9 2 2 9 3 8 beträgt 45 €. 
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Service
+                            [1] => Amount
+                        )
+
+                    [1] => Array
+                        (
+                            [0] => 612374835
+                            [1] => 185.65
+                        )
+
+                    [2] => Array
+                        (
+                            [0] => V84922938
+                            [1] => 45
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [0] => 164
+                    [1] => 279.09
+                )
+
+        )
+
+    [3] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 25
+                    [1] => Der GSM-Service 6 1 2 3 7 4 8 3 5 hat die Vorwürfe sind ...  monatlichen Plan Basic Paket Telefon, 3€.  einmalige Gebühr 10 € für die Installation von Telefon.  Verwendung insgesamt 202,65 €.  Rabatt 10 € unmittelbar einzeln auf den verschiedenen Arten der Nutzung. 
+                    [2] => Array
+                        (
+                            [0] => GSM
+                            [1] => 612374835
+                            [2] => Basic Telephone Package
+                            [3] => 3.00 €
+                            [4] => 10.00 €
+                            [5] => 202.65 €
+                            [6] => 10 €
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => 20
+                    [1] => Der Fernsehen-V 8 4 9 2 2 9 3 8 hat die Vorwürfe sind ...  monatlichen Plan Plan TV, 20 €.  einmalige Gebühr 10 € für Finanzen.  Verwendung insgesamt 15 €. 
+                    [2] => Array
+                        (
+                            [0] => Television
+                            [1] => V84922938
+                            [2] => Plan TV
+                            [3] => 20.00 €
+                            [4] => 10.00 €
+                            [5] => 15.00 €
+                            [6] => 
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [0] => 30
+            [1] => Auf der Grundlage der durchschnittlichen Auslastung der verfügbaren Service in den letzten sechs Monaten und Analyse mit der Rechnung Pläne in unserem System, haben wir ein Gesetz Planempfehlung, die am besten geeignete und Kosten effektiv sein kann.  Für GSM-6 1 2 3 7 4 8 3 5, empfehlen wir Plan Plan Smart S und das kann rund 169,5 € monatlich zu speichern. 
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Service
+                            [1] => Recommended plan
+                            [2] => Saving
+                        )
+
+                    [1] => Array
+                        (
+                            [0] => 612374835
+                            [1] => Plan Smart S
+                            [2] => 169.5 €
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [0] => 5
+            [1] => Vielen Dank. 
+            [2] => THANK YOU!!
+        )
+
+)

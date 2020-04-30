@@ -1,0 +1,169 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => 8
+            [1] => Ciao José Feliciano!  Benvenuti al video Bill! 
+            [2] => Hello José Feliciano!!
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 4
+                    [1] => 7
+                    [2] => 7
+                    [3] => 10
+                )
+
+            [1] => Array
+                (
+                    [0] => Ci sono delle vecchie banconote non ancora pagato.   Questi sono ... 
+                    [1] => Legge 162 ha importo totale 484,94 €, e 
+                    [2] => Legge 163 ha importo totale 363,62 €, 
+                    [3] => Per pagare questi importi in legge il prima possibile per i servizi uninteruppted. 
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Bill No.
+                                    [1] => Bill date
+                                    [2] => Due date
+                                    [3] => Amount
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 162
+                                    [1] => 2016-09-24
+                                    [2] => 2016-09-24
+                                    [3] => 484.94 €
+                                )
+
+                            [2] => Array
+                                (
+                                    [0] => 163
+                                    [1] => 2016-10-24
+                                    [2] => 2016-10-24
+                                    [3] => 363.62 €
+                                )
+
+                        )
+
+                    [1] => 0
+                    [2] => 1
+                    [3] => 
+                )
+
+            [3] => 2
+        )
+
+    [2] => Array
+        (
+            [0] => 28
+            [1] => L'importo fattura totale per il mese corrente incluso fiscale è 279,09 €.   Il riepilogo della quantità totale a livelli di servizio sono ...  Per GSM servizio 6 1 2 3 7 4 8 3 5 è 185,65 €, e per la televisione servizio V 8 4 9 2 2 9 3 8 è 45 €. 
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Service
+                            [1] => Amount
+                        )
+
+                    [1] => Array
+                        (
+                            [0] => 612374835
+                            [1] => 185.65
+                        )
+
+                    [2] => Array
+                        (
+                            [0] => V84922938
+                            [1] => 45
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [0] => 164
+                    [1] => 279.09
+                )
+
+        )
+
+    [3] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 25
+                    [1] => Il GSM servizio 6 1 2 3 7 4 8 3 5 ha le accuse sono ...  Piano mensile Basic Telefono package, 3€.  Ricorrente accusa 10 € per l'installazione di Telefono.  Utilizzo totale 202,65 €.  Sconto 10 € applicabile singolarmente su ogni diversi tipi di utilizzo. 
+                    [2] => Array
+                        (
+                            [0] => GSM
+                            [1] => 612374835
+                            [2] => Basic Telephone Package
+                            [3] => 3.00 €
+                            [4] => 10.00 €
+                            [5] => 202.65 €
+                            [6] => 10 €
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => 20
+                    [1] => La televisione servizio V 8 4 9 2 2 9 3 8 ha le accuse sono ...  Mensile piano piano la TV, 20 €.  Accusa ricorrente 10 € per delle Finanze.  Utilizzo totale 15 €. 
+                    [2] => Array
+                        (
+                            [0] => Television
+                            [1] => V84922938
+                            [2] => Plan TV
+                            [3] => 20.00 €
+                            [4] => 10.00 €
+                            [5] => 15.00 €
+                            [6] => 
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [0] => 30
+            [1] => Basato sulla media di utilizzo del servizio negli ultimi sei mesi e analizzare con il conto dei piani disponibili nel nostro sistema, abbiamo un suggerimento piano di fatturazione che possono essere più appropriato e costo effettivo.  Per il servizio GSM 6 1 2 3 7 4 8 3 5, raccomandiamo piano piano Smart S e che possono salvare mensili intorno ai 169,5 €. 
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Service
+                            [1] => Recommended plan
+                            [2] => Saving
+                        )
+
+                    [1] => Array
+                        (
+                            [0] => 612374835
+                            [1] => Plan Smart S
+                            [2] => 169.5 €
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [0] => 5
+            [1] => Grazie. 
+            [2] => THANK YOU!!
+        )
+
+)

@@ -1,0 +1,169 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => 8
+            [1] => Olá José Feliciano!  Bem-vindo ao seu Bill Vídeo! 
+            [2] => Hello José Feliciano!!
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 4
+                    [1] => 7
+                    [2] => 7
+                    [3] => 10
+                )
+
+            [1] => Array
+                (
+                    [0] => Há algumas contas antigas não pagou ainda.   Esses são ... 
+                    [1] => Bill 162 tem valor total de 484,94 €, e 
+                    [2] => Bill 163 tem valor total de 363,62 euros. 
+                    [3] => Por favor, pague estas quantias pendentes conta assim que possível para serviços uninteruppted. 
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Bill No.
+                                    [1] => Bill date
+                                    [2] => Due date
+                                    [3] => Amount
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 162
+                                    [1] => 2016-09-24
+                                    [2] => 2016-09-24
+                                    [3] => 484.94 €
+                                )
+
+                            [2] => Array
+                                (
+                                    [0] => 163
+                                    [1] => 2016-10-24
+                                    [2] => 2016-10-24
+                                    [3] => 363.62 €
+                                )
+
+                        )
+
+                    [1] => 0
+                    [2] => 1
+                    [3] => 
+                )
+
+            [3] => 2
+        )
+
+    [2] => Array
+        (
+            [0] => 28
+            [1] => A quantia total da fatura para o mês atual, incluindo imposto é 279,09 euros.   O resumo da quantidade total em níveis de serviço são ...  Para GSM serviço 6 1 2 3 7 4 8 3 5 é 185,65 €, e para serviços de Televisão V 8 4 9 2 2 9 3 8 é de 45 euros. 
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Service
+                            [1] => Amount
+                        )
+
+                    [1] => Array
+                        (
+                            [0] => 612374835
+                            [1] => 185.65
+                        )
+
+                    [2] => Array
+                        (
+                            [0] => V84922938
+                            [1] => 45
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [0] => 164
+                    [1] => 279.09
+                )
+
+        )
+
+    [3] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 25
+                    [1] => O GSM serviço 6 1 2 3 7 4 8 3 5 que as acusações são ...  Plano mensal Basic Telephone Package, 3€.  Encargos contínuos 10 € para Instalação do Telefone.  Usos do total de 202,65 euros.  Desconto de 10 euros aplicáveis individualmente em cada diferentes tipos de uso. 
+                    [2] => Array
+                        (
+                            [0] => GSM
+                            [1] => 612374835
+                            [2] => Basic Telephone Package
+                            [3] => 3.00 €
+                            [4] => 10.00 €
+                            [5] => 202.65 €
+                            [6] => 10 €
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => 20
+                    [1] => A televisão de serviço V 8 4 9 2 2 9 3 8 que as acusações são ...  Plano mensal Plano TV, 20 euros.  Encargos contínuos 10 € para Finanças.  Usos do total de 15 euros. 
+                    [2] => Array
+                        (
+                            [0] => Television
+                            [1] => V84922938
+                            [2] => Plan TV
+                            [3] => 20.00 €
+                            [4] => 10.00 €
+                            [5] => 15.00 €
+                            [6] => 
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [0] => 30
+            [1] => Com base no uso médio do serviço nos últimos seis meses e analisar com a conta disponível planos em nosso sistema, temos uma recomendação do plano de faturamento que pode ser mais adequada e custo efetivo.  Para serviço GSM 6 1 2 3 7 4 8 3 5, recomendamos o plano Plano Smart S e que podem economizar mensalmente cerca de 169,5 euros. 
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Service
+                            [1] => Recommended plan
+                            [2] => Saving
+                        )
+
+                    [1] => Array
+                        (
+                            [0] => 612374835
+                            [1] => Plan Smart S
+                            [2] => 169.5 €
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [0] => 5
+            [1] => Obrigado. 
+            [2] => THANK YOU!!
+        )
+
+)

@@ -1,0 +1,169 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => 8
+            [1] => Bonjour José Feliciano ! !  Bienvenue dans votre projet de vidéo ! ! 
+            [2] => Hello José Feliciano!!
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 4
+                    [1] => 7
+                    [2] => 7
+                    [3] => 10
+                )
+
+            [1] => Array
+                (
+                    [0] => Il existe certaines factures anciennes non encore payés.   Ce sont ... 
+                    [1] => Bill 162 est un montant total de 484,94 euros, et 
+                    [2] => Bill 163 a 363,62 €, montant total 
+                    [3] => Veuillez payer ces montants en suspens dès que possible pour les services ininterrompue. 
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Bill No.
+                                    [1] => Bill date
+                                    [2] => Due date
+                                    [3] => Amount
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 162
+                                    [1] => 2016-09-24
+                                    [2] => 2016-09-24
+                                    [3] => 484.94 €
+                                )
+
+                            [2] => Array
+                                (
+                                    [0] => 163
+                                    [1] => 2016-10-24
+                                    [2] => 2016-10-24
+                                    [3] => 363.62 €
+                                )
+
+                        )
+
+                    [1] => 0
+                    [2] => 1
+                    [3] => 
+                )
+
+            [3] => 2
+        )
+
+    [2] => Array
+        (
+            [0] => 28
+            [1] => Le montant total pour le mois du bill actuel dont la taxe est de 279,09 €.   Le résumé du montant total à des niveaux de service sont ...  Pour GSM de service 6 1 2 3 7 4 8 3 5 est de 185,65 €, et pour la télévision de service V 8 4 9 2 2 9 3 8 est de 45 €. 
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Service
+                            [1] => Amount
+                        )
+
+                    [1] => Array
+                        (
+                            [0] => 612374835
+                            [1] => 185.65
+                        )
+
+                    [2] => Array
+                        (
+                            [0] => V84922938
+                            [1] => 45
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [0] => 164
+                    [1] => 279.09
+                )
+
+        )
+
+    [3] => Array
+        (
+            [0] => Array
+                (
+                    [0] => 25
+                    [1] => Le GSM de service 6 1 2 3 7 4 8 3 5 a Les frais ...  Plan mensuel Basic Téléphone Package, 3€.  10 € pour frais récurrents d'installation de téléphone.  Usages total 202,65 €.  Remise de 10 € applicable individuellement sur chaque différents types d'utilisation. 
+                    [2] => Array
+                        (
+                            [0] => GSM
+                            [1] => 612374835
+                            [2] => Basic Telephone Package
+                            [3] => 3.00 €
+                            [4] => 10.00 €
+                            [5] => 202.65 €
+                            [6] => 10 €
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [0] => 20
+                    [1] => La télévision de service V 8 4 9 2 2 9 3 8 a Les frais ...  Plan plan mensuel TV, 20 €.  Frais récurrents 10 € pour Finances.  Usages total 15 €. 
+                    [2] => Array
+                        (
+                            [0] => Television
+                            [1] => V84922938
+                            [2] => Plan TV
+                            [3] => 20.00 €
+                            [4] => 10.00 €
+                            [5] => 15.00 €
+                            [6] => 
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [0] => 30
+            [1] => Basé sur l'utilisation moyenne du service dans les six derniers mois et analyser avec le bill disponibles plans dans notre système, nous avons un plan de recommandation qui peut être plus appropriée et rentable.  Pour le service GSM 6 1 2 3 7 4 8 3 5, nous recommandons plan plan Smart S et qui peuvent sauver mensuel autour de 169,5 €. 
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Service
+                            [1] => Recommended plan
+                            [2] => Saving
+                        )
+
+                    [1] => Array
+                        (
+                            [0] => 612374835
+                            [1] => Plan Smart S
+                            [2] => 169.5 €
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [0] => 5
+            [1] => Merci. 
+            [2] => THANK YOU!!
+        )
+
+)
